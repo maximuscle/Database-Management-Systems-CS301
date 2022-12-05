@@ -19,8 +19,11 @@ Ticket Field is used to store the ticket details such as ticket_id, order_date, 
 A zoo is incomplete without Customers . From Customers zoo gets it's partial profits. Visitors access all the facilities of the zoo through the column coupon and ticket.
 We obtain the customer details.
 <br><ins>Technologies Used</ins></br>
-<br>FrontEnd: Streamlit and python</br>
-<br>Backend: MariaDB MySQL</br>
+<br>FrontEnd:</br>
+[![streamlit.png](https://i.postimg.cc/V6N8zJSZ/streamlit.png)](https://postimg.cc/jWB9Xd4y)
+<br>Backend:</br>
+[![MariaDB.jpg](https://i.postimg.cc/TwHX1Tgd/MariaDB.jpg)](https://postimg.cc/qhnFZV1S)
+[![python.jpg](https://i.postimg.cc/ZnGtPjwX/python.jpg)](https://postimg.cc/Lg3b2kKV)
 <br>Interaction: Using Cursors</br>
 <br><ins>How To Use</ins></br>
 Step1: Run streamlit run C:\Users\ajayr\PycharmProjects\todo2\admin.py in pycharm terminal
